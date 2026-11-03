@@ -15,12 +15,12 @@
   --color-primary: #ec51a6;      /* xanh thương hiệu */
   --color-primary-dark: #ee56b7;
   --color-accent: #e28fc6;       /* tím nhấn */
-  --color-text: #161b23;         /* chữ chính */
-  --color-text-soft: #6c82a1;    /* chữ phụ */
-  --color-bg: #2cd46a;           /* nền trang */
-  --color-surface: #50d4cb;      /* nền vùng nhấn */
+  --color-text: #7A004E;         /* chữ chính */
+  --color-text-soft: #FF7AC1;    /* chữ phụ */
+  --color-bg: #6eff9c;           /* nền trang */
+  --color-surface: #a1e5e2;      /* nền vùng nhấn */
   --color-border: #c86767;       /* viền */
-  --color-chip: #4ae9b7;         /* nền chip kỹ năng */
+  --color-chip: #7fffa1;         /* nền chip kỹ năng */
 
   /* --- Typography --- */
   --font-base: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
